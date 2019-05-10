@@ -1,0 +1,24 @@
+{
+    "ret":true,
+    "data":{
+        "sightName":"大连圣海洋世界",
+        "bannerImg":"//img1.qunarzz.com/sight/p0/1901/8c/8c1d317bc954ce06a3.water.jpg_600x330_437c0534.jpg",
+        "gallaryImgs":[
+            "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/e0c5d91cb9b435518bb223b81b70874e.jpg_750x200_f2d5c66a.jpg",
+            "http://mp-piao-admincp.qunarzz.com/mp_piao_admin_mp_piao_admin/admin/20194/5daa78ddf9a3e3aca32195e079b9545d.jpg_750x200_3aeaa5c2.jpg"
+        ],
+        "categoryList":[{
+            "title":"成人三馆联票",
+            "children":[{
+                "title":"成人三馆联票==某一连锁店销售"
+            }]
+        },{
+            "title":"成人五馆联票",
+            "children":[{
+                "title":"成人五馆联票==某一连锁店销售"
+            }]
+        },{
+            "title":"成人五馆联票"
+        }] 
+    }
+}
