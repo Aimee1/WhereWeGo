@@ -70,8 +70,8 @@
           <span>王小虎</span>
         </el-header>
              
-        <el-main>
-            <admin-tabs></admin-tabs>
+        <el-main style="background:#ececec"> 
+            <admin-pagination></admin-pagination>
         </el-main>
       </el-container>
     </el-container>
@@ -79,11 +79,11 @@
 </template>
 
 <script>
-import adminTabs from "./Tabs"
+ import adminPagination from "./Pagination"
 export default {
   name: "adminAside",
   components:{
-        adminTabs
+        adminPagination
   },
   data() {
     return {
